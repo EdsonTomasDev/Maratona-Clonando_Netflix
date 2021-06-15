@@ -1,0 +1,29 @@
+.botton-navbar__backgroud {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: red;
+    background: #121212;
+}
+
+.botton-navbar {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.botton-navbar__icon {
+    text-align: center;
+
+}
+
+.botton-navbar__text {
+    font-Weight: 500;
+    font-style: normal;
+    font-size: 8px;
+    margin-top: 5px;
+    color: #8C8787;
+
+}

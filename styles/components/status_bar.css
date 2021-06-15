@@ -14,9 +14,9 @@
 }
 
 .status-bar__icons {
-   background: red;
-   padding-bottom: 3px;
+    padding-bottom: 3px;
    }
 .status-bar__icons img:not(:last-child) {
     margin-right: 5px;
 }
+
