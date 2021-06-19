@@ -1,0 +1,55 @@
+.play {
+    height: 76px;
+    margin-bottom: 10px;
+}
+
+.play__top {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-Weight: 700;
+    font-style: normal;
+    font-size: 13px;
+}
+.play__top img {
+   
+    margin-right: 2px;
+}
+
+.play__music {
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+   
+    margin-top: 11px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.play__music--play {
+    display: flex;
+    width: 111px;
+    height: 45px;
+    align-items: center;
+    justify-content:center;
+    background: #c4c4c4;
+    border-radius: 5.6px;
+    padding-left: 19px;
+    padding-right: 20px;
+
+   
+
+}
+
+.play__music--play p {
+    font-Weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 15px;
+    color: #000000;
+   
+}
+
+.play__music--play img
