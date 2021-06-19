@@ -1,0 +1,14 @@
+.navbar-menu {
+    width: 90%;
+    margin: 0 auto;
+    height: 57px;
+   display: flex;
+  
+   align-items: center;
+   justify-content: space-between;
+
+   font-Weight: 400;
+   font-style: normal;
+   font-size: 17px;
+
+}

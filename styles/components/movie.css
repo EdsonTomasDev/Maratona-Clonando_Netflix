@@ -1,7 +1,7 @@
 .movie {
     display: flex;
     overflow:auto;
-    
+    margin-bottom: 10px;
 }
 
 .movie img:not(:last-child) {
