@@ -1,0 +1,23 @@
+.profile {
+    display: flex;
+    width: 85%;
+    margin: 0 auto;
+    justify-content: space-between;
+    background: blue;
+    text-align: center;
+   
+  
+}
+
+
+.profile__img {
+    width: 60px;
+    height: 55px;
+}
+
+.profile__text {
+    font-Weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    margin-top: 5px;
+}
