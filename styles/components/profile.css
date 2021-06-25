@@ -3,7 +3,7 @@
     width: 85%;
     margin: 0 auto;
     justify-content: space-between;
-    background: blue;
+   
     text-align: center;
    
   
@@ -20,4 +20,20 @@
     font-style: normal;
     font-size: 12px;
     margin-top: 5px;
+}
+
+.profile--grid {
+    display: grid;
+    grid-template-columns: 100px 100px;
+    grid-gap: 20px;
+    justify-content: center;
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+   
+}
+
+.profile__img--big {
+    width: 100px;
+    height: 92px;
 }
