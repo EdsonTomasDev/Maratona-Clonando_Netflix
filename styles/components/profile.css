@@ -13,6 +13,14 @@
 .profile__img {
     width: 60px;
     height: 55px;
+    transition: transform ease-in-out;
+    transition-duration: 150ms;
+}
+
+.profile__img:hover {
+   transform:scale(1.1);
+   
+   
 }
 
 .profile__text {
