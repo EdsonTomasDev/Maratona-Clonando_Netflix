@@ -12,6 +12,9 @@
 }
 
 .logo {
+    /* animation-name: load;
+    animation-duration: 1500ms;
+    animation: ease-in-out; */
     animation: load 1500ms ease-in-out;
 }
 
