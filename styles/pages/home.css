@@ -5,3 +5,18 @@
 @import url(../components/navbar-menu.css);
 @import url(../components/play.css);
 @import url(../components/footer.css);
+
+body {
+    position: relative;
+}
+
+.wallpaper {
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    
+}
+
+.play {
+    margin-top: 293px;
+}
